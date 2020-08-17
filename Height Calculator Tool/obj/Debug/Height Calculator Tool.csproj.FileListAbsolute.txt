@@ -1,0 +1,15 @@
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\bin\Debug\Height Calculator Tool.exe.config
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\bin\Debug\Height Calculator Tool.exe
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\bin\Debug\Height Calculator Tool.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height_Calculator_Tool.Form1.resources
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height_Calculator_Tool.Properties.Resources.resources
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height Calculator Tool.csproj.GenerateResource.Cache
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height Calculator Tool.exe
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height Calculator Tool.pdb
+c:\users\leandro\documents\visual studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height_Calculator_Tool.Form2.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\bin\Debug\Height Calculator Tool.exe.manifest
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\bin\Debug\Height Calculator Tool.application
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height Calculator Tool.TrustInfo.xml
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height Calculator Tool.exe.manifest
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height Calculator Tool.application
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Height Calculator Tool\Height Calculator Tool\obj\Debug\Height Calculator Tool.csprojResolveAssemblyReference.cache
